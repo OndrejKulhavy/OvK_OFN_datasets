@@ -1,0 +1,696 @@
+[
+    {
+         "@context": "https://ofn.gov.cz/události/2020-07-01/kontexty/událost.jsonld",
+     
+         "typ":"Událost",
+     
+         "iri": "https://goout.net/en/posledni-fejeton-literarni-pasmo-z-fejetonu-karla-capka/szovlmr/",
+     
+         "název": {
+             "cs": "Poslední fejeton – literární pásmo z fejetonů Karla Čapka"
+         },
+     
+         "dlouhý_popis": {
+             "cs": "V sobotu 17. července ožije zahrada Památníku Karla Čapka dvěma literárními pásmy. Z mistrových sloupků, glos a fejetonů bude číst herec Petr Kostka, Čapkovy blízké připomene Regina Rázlová s Martinem Františákem, uměleckým šéfem Švandova divadla."
+         },
+     
+         "pořadatel": [{
+             "typ":"Osoba",
+             "ičo":"00112233",
+             "název": {
+                 "cs": "Památník Karla Čapka & Rosa Bohemica"
+             }
+         }],
+         "umístění": [{
+             "typ":"Umístění",
+             "adresa": {
+                 "typ":"Adresa",
+                 "adresní_místo": "https://linked.cuzk.cz/resource/ruian/adresni-misto/22962247"
+                },
+             "název": {
+                 "cs": "Pamáník Karla Čapka",
+                 "en": "Monument of Karel Čapek"
+                },
+             "geometrie": {
+                 "type": "Point", 
+                 "coordinates":[49.773943335194375, 14.206976662202665]}
+        
+         }],
+         "doba_trvání": [{
+             "typ":"Časová specifikace",
+             "časový_interval": {
+                 "typ":"Časový interval",
+                 "začátek": {
+                     "typ":"Časový okamžik",
+                     "datum_a_čas": "2021-07-17T14:00:00.5+02:00"
+                 },
+                 "konec": {
+                     "typ":"Časový okamžik",
+                     "datum_a_čas": "2021-07-17T23:59:00.5+02:00"
+                 }
+             }
+         }],
+         "vstupné": [{
+             "typ":"Vstupné",
+             "cena": {
+                 "typ":"Částka",
+                 "měna": "http://publications.europa.eu/resource/authority/currency/CZK", 
+                 "výše": 60}
+         }],
+         "téma": [
+             "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/historie", 
+             "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/umění-a-kultura"
+        ]
+     },
+     {
+         "@context": "https://ofn.gov.cz/události/2020-07-01/kontexty/událost.jsonld",
+     
+         "typ":"Událost",
+     
+         "iri": "https://www.capek-strz.cz/fotograficky-workshop-s-janem-sibikem-17-cervence/d-14545/p1=1001",
+         "název": {
+             "cs": "Letní fotografický workshop Jana Šibíka na Strži"
+         },
+     
+         "dlouhý_popis": {
+             "cs": "Fotografování patřilo k hlavním zálibám Karla Čapka. Místo své dvouoké zrcadlovky Rolleiflex by dnes možná fotil na mobil a – podle svého zvyku – by hledal rady u odborníků. Možná by oslovil Jana Šibíka, který v soutěži Czech Press Photo obdržel v různých kategoriích pět desítek ocenění, z toho dvakrát hlavní cenu, a opakovaně uspěl i v silné mezinárodní konkurenci: například v roce 2004 v soutěži World Press Photo. Jan Šibík je zároveň zkušeným pedagogem, uspořádal více než 220 workshopů reportážní fotografie jak v České republice, tak v zahraničí. Proto jsme se rozhodli uspořádat v inspirativním prostředí Památníku jednodenní workshop focení mobilním telefonem, vhodný pro začátečníky i pokročilé. Věříme, že tucet účastníků si z Čapkovy Strže odnese netuctové zážitky. Přesné podmínky výběru uchazečů."
+            },
+     
+         "pořadatel": [{
+             "typ":"Osoba",
+             "ičo":"00112233",
+             "název": {
+                 "cs": "Památník Karla Čapka"
+             }
+         }],
+         "umístění": [{
+             "typ":"Umístění",
+             "adresa": {
+                 "typ":"Adresa",
+                 "adresní_místo": "https://linked.cuzk.cz/resource/ruian/adresni-misto/22962247"
+                },
+             "název": {
+                 "cs": "Pamáník Karla Čapka",
+                 "en": "Monument of Karel Čapek"
+                },
+             "geometrie": {
+                 "type": "Point", 
+                 "coordinates":[49.773943335194375, 14.206976662202665]}
+        
+         }],
+         "doba_trvání": [{
+             "typ":"Časová specifikace",
+             "časový_interval": {
+                 "typ":"Časový interval",
+                 "začátek": {
+                     "typ":"Časový okamžik",
+                     "datum_a_čas": "2021-07-17T10:00:00.5+02:00"
+                 },
+                 "konec": {
+                     "typ":"Časový okamžik",
+                     "datum_a_čas": "2021-07-17T18:00:00.5+02:00"
+                 }
+             }
+         }],
+         "vstupné": [{
+             "typ":"Vstupné",
+             "cena": {
+                 "typ":"Částka",
+                 "měna": "http://publications.europa.eu/resource/authority/currency/CZK", 
+                 "výše": 0}
+         }],
+         "téma": [
+             "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/umění-a-kultura"
+            ],
+        "registrace": {
+            "cs": "Do středy 30. června 2021 do 23:59 hod. nám na e-mailovou adresu pamatnik@capek-strz.cz zašlete tři fotografie, které jste vy osobně vytvořili mobilním telefonem. Jan Šibík poté anonymizované trojice fotografií posoudí a vybere, s kým na Strži stráví společným tvořením několik hodin. Kapacita workshopu je omezena na 11 osob, úspěšné i neúspěšné uchazeče budeme o výsledku včas informovat."    
+        }
+    
+    },
+    {
+         "@context": "https://ofn.gov.cz/události/2020-07-01/kontexty/událost.jsonld",
+     
+         "typ":"Událost",
+     
+         "iri": "https://www.capek-strz.cz/fotograficky-workshop-s-janem-sibikem-17-cervence/d-14545/p1=1001",
+         "název": {
+             "cs": "Moučníková soutěž"
+         },
+     
+         "dlouhý_popis": {
+             "cs": "Soutěž o nejchutnější moučník. Upečte doma svou oblíbenou dobrotu a doneste ji ochutnat ostatním - k nám do Památníku Karla Čapka! Kategorie: I. sladký moučník, II. slaný moučník."
+            },
+     
+         "pořadatel": [{
+             "typ":"Osoba",
+             "ičo":"00112233",
+             "název": {
+                 "cs": "Památník Karla Čapka"
+             }
+         }],
+         "umístění": [{
+             "typ":"Umístění",
+             "adresa": {
+                 "typ":"Adresa",
+                 "adresní_místo": "https://linked.cuzk.cz/resource/ruian/adresni-misto/22962247"
+                },
+             "název": {
+                 "cs": "Pamáník Karla Čapka",
+                 "en": "Monument of Karel Čapek"
+                },
+             "geometrie": {
+                 "type": "Point", 
+                 "coordinates":[49.773943335194375, 14.206976662202665]}
+        
+         }],
+         "doba_trvání": [{
+             "typ":"Časová specifikace",
+             "časový_interval": {
+                 "typ":"Časový interval",
+                 "začátek": {
+                     "typ":"Časový okamžik",
+                     "datum_a_čas": "2021-10-23T14:00:00.5+02:00"
+                 },
+                 "konec": {
+                     "typ":"Časový okamžik",
+                     "nespecifikovaný": true
+                 }
+             }
+         }],
+         "vstupné": [{
+             "typ":"Vstupné",
+             "cena": {
+                 "typ":"Částka",
+                 "měna": "http://publications.europa.eu/resource/authority/currency/CZK", 
+                 "výše": 0}
+         }],
+         "téma": [
+             "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/jídlo-a-pití"
+            ]
+    
+     },
+     {
+         "@context": "https://ofn.gov.cz/události/2020-07-01/kontexty/událost.jsonld",
+     
+         "typ":"Událost",
+     
+         "iri": "https://www.capek-karel-pamatnik.cz/2021/d-14528/p1=1352",
+         "název": {
+             "cs": "70 let Rádia Svobodná Evropa"
+         },
+     
+         "dlouhý_popis": {
+            "cs": "U počátků stanice Rádio Svobodná Evropa stál Ferdinand Peroutka. Slavného žurnalistu a jeho kolegy ze „Svobodky“ připomene historik Martin Nekola, výklad zpestří unikátní barevné diapozitivy z Peroutkova soukromí. Tradici i současné angažmá spisovatelské organizace PEN klub v boji proti totalitám připomene Jiří Dědeček, známý písničkář, básník, textař, překladatel, spisovatel a zároveň předseda Českého centra Mezinárodního PEN klubu. O úloze současné žurnalistiky v tomto kontextu bude diskutovat Martin Groman, předseda Společnosti Ferdinanda Peroutky, s historikem prof. Michalem Stehlíkem i nositeli peroutkovské ceny Jindřichem Šídlem a Petrem Fischerem."
+        },
+     
+         "pořadatel": [{
+             "typ":"Osoba",
+             "ičo":"00112233",
+             "název": {
+                 "cs": "Památník Karla Čapka"
+             }
+         }],
+         "umístění": [{
+             "typ":"Umístění",
+             "adresa": {
+                 "typ":"Adresa",
+                 "adresní_místo": "https://linked.cuzk.cz/resource/ruian/adresni-misto/22962247"
+                },
+             "název": {
+                 "cs": "Pamáník Karla Čapka",
+                 "en": "Monument of Karel Čapek"
+                },
+             "geometrie": {
+                 "type": "Point", 
+                 "coordinates":[49.773943335194375, 14.206976662202665]}
+        
+         }],
+         "doba_trvání": [{
+             "typ":"Časová specifikace",
+             "časový_interval": {
+                 "typ":"Časový interval",
+                 "začátek": {
+                     "typ":"Časový okamžik",
+                     "datum_a_čas": "2021-06-12T14:00:00.5+02:00"
+                 },
+                 "konec": {            
+                     "typ":"Časový okamžik", 
+                    "datum_a_čas": "2021-06-12T18:30:00.5+02:00"
+                }
+             }
+         }],
+         "vstupné": [{
+             "typ":"Vstupné",
+             "název": {
+                "cs": "Dobrovolné"
+            }
+            }],
+         "téma": [
+             "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/historie"
+            ]
+    
+     },
+     {
+         "@context": "https://ofn.gov.cz/události/2020-07-01/kontexty/událost.jsonld",
+     
+         "typ":"Událost",
+         "iri": "https://www.capek-karel-pamatnik.cz/2021/d-14528/p1=1352",
+     
+         "název": {
+             "cs": "AI: Když robot píše hru"
+         },
+     
+         "dlouhý_popis": {    
+             "cs": "Pod širým nebem promítneme záznam online premiéry první české divadelní hry, jejíž dialogy vygenerovala umělá inteligence. Následuje beseda s tvůrci unikátního díla o radostech a strastech každodenního života z pohledu robota. Netradiční představení Švandova divadla v Praze vzniklo ve spolupráci s DAMU a Matematicko-fyzikální fakultou Univerzity Karlovy a na Strži bude k vidění ještě před uvedením hry před diváky smíchovské scény. Účast přislíbili: Daniel Hrbek (hudba a režie), Martina Kinská (dramaturgyně), Rudolf Rosa (počítačový lingvista)... a zástupce hereckého souboru Švandova divadla. Akce se koná v rámci festivalu Středočeské kulturní léto aneb Jak se dělá divadlo 1/5."
+         },
+     
+         "pořadatel": [
+             {
+             "typ":"Osoba",
+             "ičo":"00112233",
+             "název": {
+                 "cs": "Památník Karla Čapka"        
+                }
+            },
+            {
+                "typ":"Osoba",
+                "ičo": "00112233",
+                "název": {"cs": "Festival Středočeské kulturní léto"}
+            }],
+         "umístění": [{
+             "typ":"Umístění",
+             "adresa": {
+                 "typ":"Adresa",
+                 "adresní_místo": "https://linked.cuzk.cz/resource/ruian/adresni-misto/22962247"
+                },
+             "název": {
+                 "cs": "Pamáník Karla Čapka",
+                 "en": "Monument of Karel Čapek"
+                },
+             "geometrie": {
+                 "type": "Point", 
+                 "coordinates":[49.773943335194375, 14.206976662202665]}
+        
+         }],
+         "doba_trvání": [{
+             "typ":"Časová specifikace",
+             "časový_interval": {
+                 "typ":"Časový interval",
+                 "začátek": {
+                     "typ":"Časový okamžik",
+                     "datum_a_čas": "2021-06-12T18:30:00.5+02:00"
+                 },
+                 "konec": {  
+                     "typ":"Časový okamžik",           
+                    "datum_a_čas": "2021-06-12T20:00:00.5+02:00"
+                }
+             }
+         }],
+         "vstupné": [
+             {
+                "typ":"Vstupné",
+                "název": {
+                    "cs": "Plné"
+                },
+                "cena": {
+                    "typ":"Částka",
+                    "výše": 60,
+                    "měna": "http://publications.europa.eu/resource/authority/currency/CZK"
+                }
+             },
+             {
+                "typ":"Vstupné",
+                "název": {
+                    "cs": "Snížené"
+                },
+                "cena": {
+                    "typ":"Částka",
+                    "výše": 30,
+                    "měna": "http://publications.europa.eu/resource/authority/currency/CZK"
+                }
+             },
+             {
+                "typ":"Vstupné",
+                "název": {
+                    "cs": "Rodinné"
+                },
+                "cena": {
+                    "typ":"Částka",
+                    "výše": 150,
+                    "měna": "http://publications.europa.eu/resource/authority/currency/CZK"
+                }
+             }
+         ],
+    
+    
+         "téma": [
+             "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/historie",
+             "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/technologie"
+            ]
+    
+     },
+     {
+         "@context": "https://ofn.gov.cz/události/2020-07-01/kontexty/událost.jsonld",
+     
+         "typ":"Událost",
+         "iri": "https://www.capek-karel-pamatnik.cz/2021/d-14528/p1=1352",
+     
+         "název": {
+             "cs": "Muzejní noc"
+         },
+     
+         "dlouhý_popis": {    
+            "cs": "Předválečná Strž byla místem setkávání významných umělců, politiků a dalších osobností první republiky, kteří sem přijížděli za hostiteli Olgou Scheinpflugovou a Karlem Čapkem. Někteří přespali v podkroví v pokojích pro hosty, ostatní se po setmění rozjížděli do svých domovů. Zažijte i vy jedinečnou atmosféru domu a zahrady proměněných soumrakem. Díky Muzejní noci se můžete zdržet mimořádně až do 22. hodiny."
+        },
+     
+         "pořadatel": [
+             {
+             "typ":"Osoba",
+             "ičo":"00112233",
+             "název": {
+                 "cs": "Památník Karla Čapka"        
+                }
+            }],
+         "umístění": [{
+             "typ":"Umístění",
+             "adresa": {
+                 "typ":"Adresa",
+                 "adresní_místo": "https://linked.cuzk.cz/resource/ruian/adresni-misto/22962247"
+                },
+             "název": {
+                 "cs": "Pamáník Karla Čapka",
+                 "en": "Monument of Karel Čapek"
+                },
+             "geometrie": {
+                 "type": "Point", 
+                 "coordinates":[49.773943335194375, 14.206976662202665]}
+        
+         }],
+         "doba_trvání": [{
+             "typ":"Časová specifikace",
+             "časový_interval": {
+                 "typ":"Časový interval",
+                 "začátek": {
+                     "typ":"Časový okamžik",
+                     "datum_a_čas": "2021-06-12T20:30:00.5+02:00"
+                 },
+                 "konec": {  
+                     "typ":"Časový okamžik",           
+                    "datum_a_čas": "2021-06-12T22:00:00.5+02:00"
+                }
+             }
+         }],
+         "vstupné": [
+             {
+                "typ":"Vstupné",
+                "název": {
+                    "cs": "Zdarma"
+                },
+                "cena": {
+                    "typ":"Částka",
+                    "výše": 0,
+                    "měna": "http://publications.europa.eu/resource/authority/currency/CZK"
+                }
+             }
+         ],
+    
+    
+         "téma": [
+             "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/historie"
+            ]
+    
+     },
+     {
+         "@context": "https://ofn.gov.cz/události/2020-07-01/kontexty/událost.jsonld",
+     
+         "typ":"Událost",
+         "iri": "https://www.capek-karel-pamatnik.cz/2021/d-14528/p1=1352",
+     
+         "název": {
+             "cs": "Kvíz s robotem z R.U.R."
+         },
+     
+         "dlouhý_popis": {    
+            "cs": "Předválečná Strž byla místem setkávání významných umělců, politiků a dalších osobností první republiky, kteří sem přijížděli za hostiteli Olgou Scheinpflugovou a Karlem Čapkem. Někteří přespali v podkroví v pokojích pro hosty, ostatní se po setmění rozjížděli do svých domovů. Zažijte i vy jedinečnou atmosféru domu a zahrady proměněných soumrakem. Díky Muzejní noci se můžete zdržet mimořádně až do 22. hodiny."
+        },
+     
+         "pořadatel": [
+             {
+             "typ":"Osoba",
+             "ičo":"00112233",
+             "název": {
+                 "cs": "Památník Karla Čapka"        
+                }
+            }],
+         "umístění": [{
+             "typ":"Umístění",
+             "adresa": {
+                 "typ":"Adresa",
+                 "adresní_místo": "https://linked.cuzk.cz/resource/ruian/adresni-misto/22962247"
+                },
+             "název": {
+                 "cs": "Pamáník Karla Čapka",
+                 "en": "Monument of Karel Čapek"
+                },
+             "geometrie": {
+                 "type": "Point", 
+                 "coordinates":[49.773943335194375, 14.206976662202665]}
+        
+         }],
+         "doba_trvání": [{
+             "typ":"Časová specifikace",
+             "časový_interval": {
+                 "typ":"Časový interval",
+                 "začátek": {
+                     "typ":"Časový okamžik",
+                     "datum": "2021-02-01"
+                 },
+                 "konec": {
+                     "typ":"Časový okamžik",          
+                    "nespecifikovaný": true
+                }
+             }
+         }],
+      
+         "téma": [
+             "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/historie",
+             "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/technologie"
+            ]
+    
+     },
+     {
+         "@context": "https://ofn.gov.cz/události/2020-07-01/kontexty/událost.jsonld",
+     
+         "typ":"Událost",
+         "iri": "https://www.capek-karel-pamatnik.cz/2020/d-14457/p1=1002",
+     
+         "název": {
+             "cs": "Cesta do hlubin robotovy duše"
+         },
+     
+         "dlouhý_popis": {    
+            "cs": "Vernisáž výstavy k výročí hry R.U.R. a slova robot. V rámci programu vystoupila editorka sborníku Robot 100 Jitka Čejková (VŠCHT), ilustrátor a autor komiksového zpracování Čapkových povídek Jonáš Ledecký, autorka knihy Robot jako robot Jana Horáková (MU) a zdigitalizovanou figurku robota představil Sven Ubik (CESNET)."
+        },
+     
+         "pořadatel": [
+             {
+             "typ":"Osoba",
+             "ičo":"00112233",
+             "název": {
+                 "cs": "Památník Karla Čapka"        
+                }
+            }],
+         "umístění": [{
+             "typ":"Umístění",
+             "adresa": {
+                 "typ":"Adresa",
+                 "adresní_místo": "https://linked.cuzk.cz/resource/ruian/adresni-misto/22962247"
+                },
+             "název": {
+                 "cs": "Pamáník Karla Čapka",
+                 "en": "Monument of Karel Čapek"
+                },
+             "geometrie": {
+                 "type": "Point", 
+                 "coordinates":[49.773943335194375, 14.206976662202665]}
+        
+         }],
+         "doba_trvání": [{
+             "typ":"Časová specifikace",
+             "časový_interval": {
+                 "typ":"Časový interval",
+                 "začátek": {
+                     "typ":"Časový okamžik",
+                     "datum_a_čas": "2020-09-26T14:00:00.5+02:00"
+                 },
+                 "konec": {  
+                     "typ":"Časový okamžik",           
+                    "datum": "2020-08-31"
+                }
+             }
+         }],
+         "vstupné": [
+             {
+                "typ":"Vstupné",
+                "název": {
+                    "cs": "Zdarma"
+                },
+                "cena": {
+                    "typ":"Částka",
+                    "výše": 0,
+                    "měna": "http://publications.europa.eu/resource/authority/currency/CZK"
+                }
+             }
+         ],
+    
+    
+         "téma": [
+             "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/historie"
+            ]
+    
+     },
+     {
+         "@context": "https://ofn.gov.cz/události/2020-07-01/kontexty/událost.jsonld",
+     
+         "typ":"Událost",
+         "iri": "https://www.capek-karel-pamatnik.cz/2020/d-14457/p1=1002",
+     
+         "název": {
+             "cs": "Dernisáž výstavy Loupežníkova lásky hra osudná",
+             "en":"Dernisage of the exhibition The Robber's Love is a Fateful Game"
+         },
+     
+         "dlouhý_popis": {    
+            "cs": "Dernisáž výstavy ke 100. výročí uvedení divadelní hry Karla Čapka Loupežník a 110 let dramatu bratří Čapků Lásky hra osudná. Více informací. V rámci programu vystoupil literární historik prof. Martin C. Putna, který představil knihu Skoro modlitby.",
+            "en": "Dernisage of the exhibition on the occasion of the 100th anniversary of the performance of Karel Čapek's play The Robber and 110 years of the Čapek Brothers' drama Love the Destiny Game. More information. Within the program, the literary historian prof. Martin C. Putna, who presented the book Almost Prayers."
+        },
+     
+         "pořadatel": [
+             {
+             "typ":"Osoba",
+             "ičo":"00112233",
+             "název": {
+                 "cs": "Památník Karla Čapka"        
+                }
+            }],
+         "umístění": [{
+             "typ":"Umístění",
+             "adresa": {
+                 "typ":"Adresa",
+                 "adresní_místo": "https://linked.cuzk.cz/resource/ruian/adresni-misto/22962247"
+                },
+             "název": {
+                 "cs": "Pamáník Karla Čapka",
+                 "en": "Monument of Karel Čapek"
+                },
+             "geometrie": {
+                 "type": "Point", 
+                 "coordinates":[49.773943335194375, 14.206976662202665]}
+        
+         }],
+         "doba_trvání": [{
+             "typ":"Časová specifikace",
+             "časový_interval": {
+                 "typ":"Časový interval",
+                 "začátek": {
+                     "typ":"Časový okamžik",
+                     "datum_a_čas": "2020-09-12T14:00:00.5+02:00"
+                 },
+                 "konec": {  
+                     "typ":"Časový okamžik",           
+                     "nespecifikovaný": true
+                }
+             }
+         }],
+         "vstupné": [
+             {
+                "typ":"Vstupné",
+                "název": {
+                    "cs": "Zdarma"
+                },
+                "cena": {
+                    "typ":"Částka",
+                    "výše": 0,
+                    "měna": "http://publications.europa.eu/resource/authority/currency/CZK"
+                }
+             }
+         ],
+    
+    
+         "téma": [
+             "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/historie"
+            ]
+    
+     },
+     {
+         "@context": "https://ofn.gov.cz/události/2020-07-01/kontexty/událost.jsonld",
+     
+         "typ":"Událost",
+         "iri": "https://www.capek-karel-pamatnik.cz/2020/d-14457/p1=1002",
+     
+         "název": {
+             "cs": "Kreativní Evropa, PEN klub & překlady literárních děl"
+         },
+     
+         "dlouhý_popis": {    
+             "cs": "Karel Čapek dosáhl světového věhlasu navzdory často velmi problematické kvalitě prvních překladů svých děl. Sám přitom nastavil laťku proklatě vysoko, na Strži jsme si připomněli 100 let od vydání jeho Francouzské poezie nové doby, inspirující několik generací překladatelů. Dále byl představen projekt Kreativní Evropa, dlouhodobě podporující hodnotné překlady současné české literatury. O svých zkušenostech s ním pohovořili samotní autoři, například spisovatelka a překladatelka Alena Mornštajnová. Hudební složku programu zajistila Viktorie Kaplanová. Přednesla francouzské šansony v překladu svého otce Jiřího Dědečka, předsedy spolupořádajícího Českého centra Mezinárodního PEN klubu."
+         },
+     
+         "pořadatel": [
+             {
+             "typ":"Osoba",
+             "ičo":"00112233",
+             "název": {
+                 "cs": "Památník Karla Čapka"        
+                }
+            }],
+         "umístění": [{
+             "typ":"Umístění",
+             "adresa": {
+                 "typ":"Adresa",
+                 "adresní_místo": "https://linked.cuzk.cz/resource/ruian/adresni-misto/22962247"
+                },
+             "název": {
+                 "cs": "Pamáník Karla Čapka",
+                 "en": "Monument of Karel Čapek"
+                },
+             "geometrie": {
+                 "type": "Point", 
+                 "coordinates":[49.773943335194375, 14.206976662202665]}
+        
+         }],
+         "doba_trvání": [{
+             "typ":"Časová specifikace",
+             "časový_interval": {
+                 "typ":"Časový interval",
+                 "začátek": {
+                     "typ":"Časový okamžik",
+                     "datum_a_čas": "2020-09-19T14:00:00.5+02:00"
+                 },
+                 "konec": {  
+                     "typ":"Časový okamžik",
+                     "nespecifikovaný": true
+                }
+             }
+         }],
+         "vstupné": [
+             {
+                "typ":"Vstupné",
+                "název": {
+                    "cs": "Zdarma"
+                },
+                "cena": {
+                    "typ":"Částka",
+                    "výše": 0,
+                    "měna": "http://publications.europa.eu/resource/authority/currency/CZK"
+                }
+             }
+         ],
+    
+    
+         "téma": [
+             "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/historie"
+            ]
+    
+     }
+]
