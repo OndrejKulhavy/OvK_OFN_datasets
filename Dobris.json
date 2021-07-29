@@ -1,0 +1,138 @@
+[{
+    "@context":"https://ofn.gov.cz/události/2020-07-01/kontexty/událost.jsonld",
+    "typ":"Událost",
+    "iri": "https://mestodobris.cz/mfk-dobris-sk-spartak-pribram/a-4301",
+    "název": {
+        "cs": "MFK DOBŘÍŠ - SK SPARTAK PŘÍBRAM"
+    },
+    "popis": {
+        "cs": "V pátek 30. července od 18,30 bude sehráno dorostenecké utkání MFK Dobříš – SK Spartak Příbram , které letos přímo rozhodne o vítězi 19. ročníku Memoriálu Josefa Vitáska.        "
+    },
+    "doba_trvání": [{
+        "typ":"Časová specifikace",
+        "časový_interval": {
+            "typ":"Časový interval",
+            "začátek": {
+                "datum_a_čas": "2021-07-30T18:30:00.5+02:00",
+                "typ":"Časový okamžik"
+            },
+            "konec": {
+                "datum": "2021-07-30",
+                "typ":"Časový okamžik"
+            }
+        }
+    }],
+    "pořadatel": [{
+        "typ":"Osoba",
+        "ičo": "00112233",
+        "název": {"cs": "Pořadatel"}
+    }],
+    "umístění": [{
+        "typ":"Umístění",
+        "geometrie": {
+            "type": "Point",
+            "coordinates":[49.777219926434505, 14.175896751692903]
+        }
+    }],
+    "téma": [
+        "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/sport"
+    ]
+},
+{
+     "@context": "https://ofn.gov.cz/události/2020-07-01/kontexty/událost.jsonld",
+ 
+     "typ":"Událost",
+ 
+     "iri": "https://www.gymnastika-dobris.cz/tabor.htm",
+ 
+     "název": {
+         "cs": "Příměstské tábory s gymnastikou",
+         "en":"Suburban camps with gymnastics"
+     },
+ 
+     "popis": {
+         "cs": "Gymnastika Dobříš zve Vaše děti na speciální příměstský tábor."
+     },
+ 
+     "pořadatel": [{
+         "typ":"Osoba",
+         "ičo":"00112233",
+         "název": {
+             "cs": "Gymnastika Dobříš, z.s."
+         }
+     }],
+ 
+     "umístění": [{
+         "typ":"Umístění",
+         "popis": {
+             "cs": "sejdeme u Sokolovny Dobříš"
+         },
+         "název": {"cs": "Sokolovna"}
+     }],
+ 
+     "vhodné_pro_děti": true,
+ 
+     "doba_trvání": [{
+         "typ":"Časová specifikace",
+         "časový_interval": {
+             "typ":"Časový interval",
+             "začátek": {
+                 "typ":"Časový okamžik",
+                 "datum": "2021-12-07"
+             },
+             "konec": {
+                 "typ":"Časový okamžik",
+                 "datum": "2021-10-07"
+             }
+         }
+     }],
+ 
+     "kontakt": [{
+         "typ":"Kontakt",
+         "mobil": "tel:+420123456789",
+         "email": "mailto:otevrenadata@mvcr.cz"
+     }]
+     
+ },
+{
+   "@context":"https://ofn.gov.cz/události/2020-07-01/kontexty/událost.jsonld",
+   "typ":"Událost",
+   "iri":"https://mestodobris.cz/primestsky-tabor-kouzelny-svet/a-4285",
+   "název":{"cs":"PŘÍMĚSTSKÝ TÁBOR - KOUZELNÝ SVĚT"},
+   "popis":{"cs":"Příměstský tábor KOUZELNÝ SVĚT s Johanou Pogranovou a asistentem je univerzálně zaměřený tábor plný zážitků a malování! Tábor je pro děti ve věku 6-12 let."},
+   "doba_trvání":[{
+       "typ":"Časová specifikace",
+       "časový_interval":{
+           "typ":"Časový interval",
+           "začátek":{
+               "typ":"Časový okamžik",
+               "datum_a_čas":"2021-07-26T07:30:00.5+02:00"
+           },
+           "konec":{
+               "typ":"Časový okamžik",
+               "datum_a_čas":"2021-07-30T16:00:00.5+02:00"
+           }
+       }
+   }],
+   "umístění":[{
+       "typ":"Umístění",
+       "geometrie":{
+           "type":"Point",
+           "coordinates":[49.78377680248986, 14.176509752042152]
+       },
+       "název":{"cs":"Dobříšek"}
+   }],
+   "vhodné_pro_děti": true,
+   "pořadatel":[{
+       "typ":"Osoba",
+       "ičo":"00112233",
+       "název":{"cs":"Rodinné centrum Dobříšek"}
+   }],
+   "kontakt":[{
+       "typ":"Kontakt",
+       "mobil":"tel:+420608906559",
+       "email":"info@dobrisek.cz",
+       "web":"http://www.dobrisek.cz/"
+   }]
+
+}]
