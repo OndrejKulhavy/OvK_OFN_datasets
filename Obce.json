@@ -1,0 +1,24 @@
+{
+  "obce": [
+    {
+      "nazev": "Stará Huť",
+      "pocetObyvatel": 100
+    },
+    {
+      "nazev": "Dobříš",
+      "pocetObyvatel": 100
+    },
+    {
+      "nazev": "Obořiště",
+      "pocetObyvatel": 100
+    },
+    {
+      "nazev": "Hradištko",
+      "pocetObyvatel": 100
+    },
+    {
+      "nazev": "Nová Ves Pod Pleší",
+      "pocetObyvatel": 100
+    }
+  ]
+}
